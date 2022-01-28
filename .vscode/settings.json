@@ -1,0 +1,5 @@
+{
+  "editor.defaultFormatter": "ms-python.python",
+  "editor.fontFamily": "'Dank Mono', 'Courier New', monospace",
+  "cSpell.words": ["deque"]
+}
